@@ -6,15 +6,31 @@ A clean, responsive movie search web app built with **HTML, CSS, and JavaScript*
 
 ## 🌐 Live Demo
 
-> _Add your GitHub Pages / Netlify / Vercel link here after deployment_
+> _Add your GitHub Pages link here after deployment_
 
 ---
 
 ## 📸 Screenshots
 
-| Home Page | Search Results |
-|-----------|----------------|
-| ![Home](screenshots/home.png) | ![Results](screenshots/results.png) |
+**Home Page**
+
+![Home Page](Screenshot__462_.png)
+
+**Search Results — Spider-Man**
+
+![Search Results](Screenshot__463_.png)
+
+**More Results**
+
+![More Results](Screenshot__464_.png)
+
+**No Movies Found**
+
+![No Movies Found](Screenshot__465_.png)
+
+**Avengers Search**
+
+![Avengers Search](Screenshot__466_.png)
 
 ---
 
@@ -67,10 +83,6 @@ const API_KEY = "your_api_key_here";
 
 Simply open `movie.html` in your browser — no build tools or server needed!
 
-```bash
-# Or use VS Code Live Server extension for a better experience
-```
-
 ---
 
 ## 📁 Project Structure
@@ -78,10 +90,15 @@ Simply open `movie.html` in your browser — no build tools or server needed!
 ```
 film-fest/
 │
-├── movie.html       # Main HTML file
-├── movie.css        # Styles and layout
-├── movie.js         # JavaScript logic & API calls
-└── README.md        # Project documentation
+├── movie.html               # Main HTML file
+├── movie.css                # Styles and layout
+├── movie.js                 # JavaScript logic & API calls
+├── Screenshot__462_.png     # Home page screenshot
+├── Screenshot__463_.png     # Search results screenshot
+├── Screenshot__464_.png     # More results screenshot
+├── Screenshot__465_.png     # No results screenshot
+├── Screenshot__466_.png     # Avengers search screenshot
+└── README.md                # Project documentation
 ```
 
 ---
