@@ -6,7 +6,7 @@ A clean, responsive movie search web app built with **HTML, CSS, and JavaScript*
 
 ## 🌐 Live Demo
 
-> _Add your GitHub Pages link here after deployment_
+https://premkumar-42.github.io/Film-Fest/movie.html
 
 ---
 
