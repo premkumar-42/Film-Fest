@@ -14,23 +14,23 @@ A clean, responsive movie search web app built with **HTML, CSS, and JavaScript*
 
 **Home Page**
 
-![Home Page](Screenshot__462_.png)
+![Home Page](screenshots/Screenshot__462_.png)
 
 **Search Results — Spider-Man**
 
-![Search Results](Screenshot__463_.png)
+![Search Results](screenshots/Screenshot__463_.png)
 
 **More Results**
 
-![More Results](Screenshot__464_.png)
+![More Results](screenshots/Screenshot__464_.png)
 
 **No Movies Found**
 
-![No Movies Found](Screenshot__465_.png)
+![No Movies Found](screenshots/Screenshot__465_.png)
 
 **Avengers Search**
 
-![Avengers Search](Screenshot__466_.png)
+![Avengers Search](screenshots/Screenshot__466_.png)
 
 ---
 
